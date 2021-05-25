@@ -1,83 +1,83 @@
 [[Libbpf]]
 arch = "aarch64"
-git-tree-sha1 = "ea8ff608557ffe54a6f456aa2467a77c31ee3346"
+git-tree-sha1 = "4c9377222327a73b3af65fafbc45a740af10b120"
 libc = "glibc"
 os = "linux"
 
     [[Libbpf.download]]
-    sha256 = "7581a10f71a89f53ad7d4d6762b3b70fab7c9344942709265501b461b674e23e"
-    url = "https://github.com/JuliaBinaryWrappers/Libbpf_jll.jl/releases/download/Libbpf-v0.3.0+0/Libbpf.v0.3.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "19a858bc67c7e3ba506d6fcbebbcc52d06ace6dcd42cc58d2c2d28b2136d02dd"
+    url = "https://github.com/JuliaBinaryWrappers/Libbpf_jll.jl/releases/download/Libbpf-v0.4.0+0/Libbpf.v0.4.0.aarch64-linux-gnu.tar.gz"
 [[Libbpf]]
 arch = "aarch64"
-git-tree-sha1 = "782b94b03ebbcde78c1e03781afe9defd280bb3e"
+git-tree-sha1 = "5a1e37e8a9a7c71c12dcc3a485be5b1bcf19ced2"
 libc = "musl"
 os = "linux"
 
     [[Libbpf.download]]
-    sha256 = "bd0f605f541d88b34bc3398295655760a9cae2509539f2015f1284b043f85edb"
-    url = "https://github.com/JuliaBinaryWrappers/Libbpf_jll.jl/releases/download/Libbpf-v0.3.0+0/Libbpf.v0.3.0.aarch64-linux-musl.tar.gz"
+    sha256 = "4774d2b606a070946a19b9e6c369956862bfeb463c1926c59c517ca2c85e10b4"
+    url = "https://github.com/JuliaBinaryWrappers/Libbpf_jll.jl/releases/download/Libbpf-v0.4.0+0/Libbpf.v0.4.0.aarch64-linux-musl.tar.gz"
 [[Libbpf]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "7d694b37d591b984cbd779ee7de1bc2a449071f2"
+git-tree-sha1 = "11548176d7724196029c4071286827367982a10d"
 libc = "glibc"
 os = "linux"
 
     [[Libbpf.download]]
-    sha256 = "1c063f3fd6da16e8d36d00d795f50f6ada0c0dfa90ccfe451b118e905edb6575"
-    url = "https://github.com/JuliaBinaryWrappers/Libbpf_jll.jl/releases/download/Libbpf-v0.3.0+0/Libbpf.v0.3.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "e6ff5b612f956c71ab777c6f36970dd0aae23e6083e5f1d6cca07fcf8f7cfffc"
+    url = "https://github.com/JuliaBinaryWrappers/Libbpf_jll.jl/releases/download/Libbpf-v0.4.0+0/Libbpf.v0.4.0.armv7l-linux-gnueabihf.tar.gz"
 [[Libbpf]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "bbf7348fa17d59064dcb63d06f49b4aabf26d5dd"
+git-tree-sha1 = "0fb475e876a409ec3750381a0878fddaee828b7c"
 libc = "musl"
 os = "linux"
 
     [[Libbpf.download]]
-    sha256 = "b832d65e601300f4cc864d9572ec08d5954a53eaf4cda28434794555d151bfe3"
-    url = "https://github.com/JuliaBinaryWrappers/Libbpf_jll.jl/releases/download/Libbpf-v0.3.0+0/Libbpf.v0.3.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "43af69dd15af298da6011d93d4c0c68ec74c64ef82c0acbedc38b9af77dcbbe0"
+    url = "https://github.com/JuliaBinaryWrappers/Libbpf_jll.jl/releases/download/Libbpf-v0.4.0+0/Libbpf.v0.4.0.armv7l-linux-musleabihf.tar.gz"
 [[Libbpf]]
 arch = "i686"
-git-tree-sha1 = "cd3e2640b61b7c2fd18cd03609c90de2047cbbab"
+git-tree-sha1 = "9427b024cfc7460a5777e995e3a0b72f4765fe06"
 libc = "glibc"
 os = "linux"
 
     [[Libbpf.download]]
-    sha256 = "32babefc20893757351aa7b0afff5c5f50d6249377cfa91e5ec27d3706865e43"
-    url = "https://github.com/JuliaBinaryWrappers/Libbpf_jll.jl/releases/download/Libbpf-v0.3.0+0/Libbpf.v0.3.0.i686-linux-gnu.tar.gz"
+    sha256 = "24b32538ca4c63cb1a58edf307f4a5631dcdfbb33ae63bdd5a1a04198e9d6f53"
+    url = "https://github.com/JuliaBinaryWrappers/Libbpf_jll.jl/releases/download/Libbpf-v0.4.0+0/Libbpf.v0.4.0.i686-linux-gnu.tar.gz"
 [[Libbpf]]
 arch = "i686"
-git-tree-sha1 = "81472364dcd745cf7931445abea3c01e7a91eac8"
+git-tree-sha1 = "640590b9afbd22344afeb0bf92e6fcf9714564f0"
 libc = "musl"
 os = "linux"
 
     [[Libbpf.download]]
-    sha256 = "4b7c996f5ee399962f0155dda64340f1781b0240f009bf9db2f5deda2427c604"
-    url = "https://github.com/JuliaBinaryWrappers/Libbpf_jll.jl/releases/download/Libbpf-v0.3.0+0/Libbpf.v0.3.0.i686-linux-musl.tar.gz"
+    sha256 = "34562e9172e3513c9db01e334e9cd39e1a94513d018b5bf208951db5ff54cd18"
+    url = "https://github.com/JuliaBinaryWrappers/Libbpf_jll.jl/releases/download/Libbpf-v0.4.0+0/Libbpf.v0.4.0.i686-linux-musl.tar.gz"
 [[Libbpf]]
 arch = "powerpc64le"
-git-tree-sha1 = "f9bd13198f5f2746ed475217c7b33a348e92b1da"
+git-tree-sha1 = "19e5ff33e539682b9e6ab3d93c387dbafc65e670"
 libc = "glibc"
 os = "linux"
 
     [[Libbpf.download]]
-    sha256 = "cf6d7b5c671066e22e068aefd15aa1eb080fe924d93492bd959095b872e8393b"
-    url = "https://github.com/JuliaBinaryWrappers/Libbpf_jll.jl/releases/download/Libbpf-v0.3.0+0/Libbpf.v0.3.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "7a38427e8d1d5e60bc54a5b0e2662c62c8697b7774e5963079fd8ebba73b286c"
+    url = "https://github.com/JuliaBinaryWrappers/Libbpf_jll.jl/releases/download/Libbpf-v0.4.0+0/Libbpf.v0.4.0.powerpc64le-linux-gnu.tar.gz"
 [[Libbpf]]
 arch = "x86_64"
-git-tree-sha1 = "744ea3d82625d1c97e8ca9e54c834792de451e67"
+git-tree-sha1 = "e5be1dac1fab0d371f9aa0da7c73188b3e47eaa8"
 libc = "glibc"
 os = "linux"
 
     [[Libbpf.download]]
-    sha256 = "7f166ae419166bbbca5d4929508beaa9b7cace8534cbf312794a641da46fff6b"
-    url = "https://github.com/JuliaBinaryWrappers/Libbpf_jll.jl/releases/download/Libbpf-v0.3.0+0/Libbpf.v0.3.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "fe2a3f9e5a1f5ab5dd068ddd3c36e786fa3d08fbdade5e9b3d389dc045337f0a"
+    url = "https://github.com/JuliaBinaryWrappers/Libbpf_jll.jl/releases/download/Libbpf-v0.4.0+0/Libbpf.v0.4.0.x86_64-linux-gnu.tar.gz"
 [[Libbpf]]
 arch = "x86_64"
-git-tree-sha1 = "5fbbc5a41a05cb9a5684ad11e2348225a5e0e632"
+git-tree-sha1 = "cff2c322d53b18fd4ad10ef13f330fb57d0dc1c2"
 libc = "musl"
 os = "linux"
 
     [[Libbpf.download]]
-    sha256 = "2635c244e95e71ace3ab3fbfe7fb3748b5d8c151c4674cb5f55bfbcbf698da74"
-    url = "https://github.com/JuliaBinaryWrappers/Libbpf_jll.jl/releases/download/Libbpf-v0.3.0+0/Libbpf.v0.3.0.x86_64-linux-musl.tar.gz"
+    sha256 = "13a02ab10c0cfdbced220073e9f92d81d07971798e652bc330bb273e73ce4713"
+    url = "https://github.com/JuliaBinaryWrappers/Libbpf_jll.jl/releases/download/Libbpf-v0.4.0+0/Libbpf.v0.4.0.x86_64-linux-musl.tar.gz"

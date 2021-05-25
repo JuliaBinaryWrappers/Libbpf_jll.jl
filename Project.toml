@@ -1,6 +1,6 @@
 name = "Libbpf_jll"
 uuid = "02f9a84d-9555-5f1a-8c3c-42027521038d"
-version = "0.3.0+0"
+version = "0.4.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -11,4 +11,4 @@ Elfutils_jll = "ab5a07f8-06af-567f-a878-e8bb879eba5a"
 
 [compat]
 JLLWrappers = "1.2.0"
-julia = "1.0"
+julia = "1.6"
