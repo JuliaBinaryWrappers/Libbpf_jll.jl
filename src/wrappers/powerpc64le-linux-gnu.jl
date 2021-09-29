@@ -8,7 +8,7 @@ function __init__()
     JLLWrappers.@generate_init_header(Elfutils_jll)
     JLLWrappers.@init_library_product(
         libbpf,
-        "lib/libbpf.so",
+        "lib64/libbpf.so",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
